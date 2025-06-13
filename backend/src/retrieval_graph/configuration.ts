@@ -1,5 +1,4 @@
 import { Annotation } from '@langchain/langgraph';
-
 import { RunnableConfig } from '@langchain/core/runnables';
 import {
   BaseConfigurationAnnotation,
